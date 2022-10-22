@@ -1,0 +1,14 @@
+hola mundo
+
+este 
+es un 
+archivo
+de
+prueba
+para
+git
+
+
+estamos
+probando 
+los push
